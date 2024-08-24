@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scikit-image
+opencv-python-headless
+Pillow
+pytesseract
+scipy
+os
+cv2
